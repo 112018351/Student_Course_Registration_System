@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36212.18 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student_Course_Registration_System", "Student_Course_Registration_System\Student_Course_Registration_System.csproj", "{D95F0BF4-2C24-499E-90BF-08CA146E9843}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository_Layer", "Repository_Layer\Repository_Layer.csproj", "{B86EF77F-B752-467D-80DE-E12C4BED35EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D95F0BF4-2C24-499E-90BF-08CA146E9843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D95F0BF4-2C24-499E-90BF-08CA146E9843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D95F0BF4-2C24-499E-90BF-08CA146E9843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86EF77F-B752-467D-80DE-E12C4BED35EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86EF77F-B752-467D-80DE-E12C4BED35EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86EF77F-B752-467D-80DE-E12C4BED35EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86EF77F-B752-467D-80DE-E12C4BED35EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
